@@ -15,7 +15,6 @@
     <a href="/">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -58,4 +57,8 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <br>
 </div><br>
+
+## 🌱 GitHub Stats
+![jjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjang6251&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjang6251&layout=compact&theme=dracula)
 </div>
