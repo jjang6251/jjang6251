@@ -7,6 +7,9 @@
  
 <br>
 
+## Portfoliio
+<a href="https://www.notion.so/8499e03f6d5545a8879effcbcb579f84?source=copy_link"></a>
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://jjang6251.tistory.com/">
