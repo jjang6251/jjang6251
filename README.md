@@ -13,4 +13,4 @@
 - 웹사이트 → [chwippo.com](https://chwippo.com)
 - iOS 앱 → [App Store에서 다운로드](https://apps.apple.com/kr/app/id6789707709)
 - Android 앱 → [Google Play에서 다운로드](https://play.google.com/store/apps/details?id=com.chwippo.app)
-- 사용자 → 300+
+- 사용자 → 380+
